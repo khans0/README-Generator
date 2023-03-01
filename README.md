@@ -37,7 +37,7 @@ WHEN a user enters a description, installation instructions, usage information, 
 THEN this information is added to the sections of the README entitled Description, Installation, Usage, Contributing, and Tests
 ​
 WHEN a user chooses a license for their application from a list of options 
-THEN a badge for that license is added near the top of the README and a notice is added to the section of the README entitled **License** that explains which license the application is covered under
+THEN a badge for that license is added near the top of the README and a notice is added to the section of the README entitled license that explains which license the application is covered under
 ​
 WHEN a user enters their GitHub username 
 THEN this is added to the section of the README entitled Questions, with a link to their GitHub profile
@@ -45,7 +45,7 @@ THEN this is added to the section of the README entitled Questions, with a link 
 WHEN a user enters their email address 
 THEN this is added to the section of the README entitled Questions, with instructions on how to reach them with additional questions
 
-When a user clicks on the links in the **Table of Contents** 
+When a user clicks on the links in the table of contents 
 THEN they are taken to the corresponding section of the README
 
 ```
@@ -57,9 +57,7 @@ It's done when:
 [ ] ​When a user is prompted for information about the application repository then a high-quality, professional README.md is generated
 ​
 ## �� MOCK-UP
-
-[**>> Click here for google drive link of project <<**](​https://drive.google.com/file/d/1RG5K16ON5S76lvHkHk5AD3VS96djVqay/view?usp=sharing)
-Video of application: ![screen recording of project in node](./assets/screenrecording.webm)
+[Video link to project](​https://drive.google.com/file/d/1RG5K16ON5S76lvHkHk5AD3VS96djVqay/view?usp=sharing)
 ​
 ## �� TECHNOLOGY USED
 ​
