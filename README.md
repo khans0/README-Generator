@@ -1,12 +1,5 @@
-# PROJECT NAME
-​
-[comment]: <> (This is only a template, feel free to add your own touch!)
-​
-![](https://img.shields.io/badge/html-HTML5-orange?logo=html5)
-![](https://img.shields.io/badge/css-CSS3-%231572B6?logo=css3)
-​
-[comment]: <> (if you want to add more badges go to https://shields.io/)
-​
+# README Generator
+​​
 ## �� TABLE OF CONTENT
 ​
 - [Description](#-description)
@@ -21,11 +14,12 @@
 ​
 ### �� What is it about?
 ​
-[comment]: <> (what? why? your motivation for the project? what problem does it solve?)
+This project uses node and the installation package inquirer to produce a set of questions that then are printed into a separate file. 
+This specfic project used node to create a README file. 
 ​
 ## �� USAGE
 ​
-[**>> Visit my portfolio website <<**](insert the link here)
+[**>> Visit my portfolio website <<**](https://github.com/khans0/)
 ​
 ### �� User story
 As a developer, I want a README generator so that I can 
@@ -63,10 +57,9 @@ It's done when:
 [ ] ​When a user is prompted for information about the application repository then a high-quality, professional README.md is generated
 ​
 ## �� MOCK-UP
-​
-Link to github: ![alt text](./path/to-the-img.png)
-Link to deployed website: ![alt text](./path/to-the-img.png)
-Link to video of site: ![alt text](./path/to-the-img.png)
+
+[**>> Click here for google drive link of project <<**](​https://drive.google.com/file/d/1RG5K16ON5S76lvHkHk5AD3VS96djVqay/view?usp=sharing)
+Video of application: ![screen recording of project in node](./assets/screenrecording.webm)
 ​
 ## �� TECHNOLOGY USED
 ​
